@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Matthias Merkl</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h1 align="center">Hi 👋, We're Merkl WebDesign</h1>
+<h3 align="center">A passionate frontend developer Team</h3>
 <div><div>
 
 [![Website](https://img.shields.io/website?label=web.merkl.org&style=for-the-badge&url=https%3A%2F%2Fweb.merkl.org)](https://web.merkl.org)
