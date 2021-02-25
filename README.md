@@ -7,13 +7,11 @@
 
 ---
 
-- 🔭 I’m currently working on [CS-Operation (Vue Application)](#)
+- 🔭 We’re currently working on [Websites](#)
 
-- 🌱 I’m currently learning **Vue.js**
+- 📝 We regulary write articles on [https://dev.to/merklwebdesign](https://dev.to/merklwebdesign)
 
-- 📝 I regulary write articles on [https://dev.to/merklwebdesign](https://dev.to/merklwebdesign)
-
-- 📫 How to reach me **matthias@merkl.org**
+- 📫 How to reach us **webdesign@merkl.org**
 
 ### Languages and Tools:
 
